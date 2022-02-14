@@ -1,0 +1,425 @@
+html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<!-- Your Basic Site Informations -->
+	<title>Kontak</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="robots" content="index, follow" />
+    <meta name="description" content="
+
+
+
+
+
+
+
+
+
+
+Kontak" />
+    <meta name="keywords" content="Kontak" />
+    <meta http-equiv="Copyright" content="popojicms" />
+    <meta name="author" content="PopojiCMS" />
+    <meta http-equiv="imagetoolbar" content="no" />
+    <meta name="language" content="Indonesia" />
+    <meta name="revisit-after" content="7" />
+    <meta name="webcrawlers" content="all" />
+    <meta name="rating" content="general" />
+    <meta name="spiders" content="all" />
+
+    <!-- RSS Feed -->
+	<link rel="alternate" type="application/rss+xml" title="SMK PKP 1 Jakarta Feed" href="https://smkpkp1dkijkt.sch.id/feed" />
+
+	<!-- Social Media Meta -->
+	<meta property="place:location:latitude" content="13.062616" /> <!-- Silahkan disesuaikan -->
+	<meta property="place:location:longitude" content="80.229508" /> <!-- Silahkan disesuaikan -->
+	<meta property="business:contact_data:street_address" content="Street Name" /> <!-- Silahkan disesuaikan -->
+	<meta property="business:contact_data:locality" content="City Name" /> <!-- Silahkan disesuaikan -->
+	<meta property="business:contact_data:postal_code" content="ZIP Code" /> <!-- Silahkan disesuaikan -->
+	<meta property="business:contact_data:country_name" content="Country" /> <!-- Silahkan disesuaikan -->
+	<meta property="business:contact_data:email" content="contact@mail.com" /> <!-- Silahkan disesuaikan -->
+	<meta property="business:contact_data:phone_number" content="+91 1234567890" /> <!-- Silahkan disesuaikan -->
+	<meta property="business:contact_data:website" content="https://smkpkp1dkijkt.sch.id/pages/kontak" />
+
+	<meta property="og:type" content="article" /> <!-- Card type bisa di ganti article, website, blog dan profile -->
+	<meta property="profile:first_name" content="Facebook_First_Name" /> <!-- Silahkan disesuaikan -->
+	<meta property="profile:last_name" content="Facebook_Last_Name" /> <!-- Silahkan disesuaikan -->
+	<meta property="profile:username" content="Facebook_Username" /> <!-- Silahkan disesuaikan -->
+	<meta property="og:title" content="Halaman - Kontak" />
+	<meta property="og:description" content="
+
+
+
+
+
+
+
+
+
+
+Kontak" />
+	<meta property="og:image" content="https://smkpkp1dkijkt.sch.id/po-content/uploads/" />
+	<meta property="og:url" content="https://smkpkp1dkijkt.sch.id/pages/kontak" />
+	<meta property="og:site_name" content="SMK PKP 1 Jakarta" />
+	<meta property="fb:admins" content="Facebook_ID" /> <!-- Silahkan disesuaikan -->
+
+	<meta name="twitter:card" content="summary" />  <!-- Card type jangan di ganti -->
+	<meta name="twitter:site" content="SMK PKP 1 Jakarta" />
+	<meta name="twitter:title" content="Halaman - Kontak" />
+	<meta name="twitter:description" content="
+
+
+
+
+
+
+
+
+
+
+Kontak" />
+	<meta name="twitter:creator" content="Twitter_Username" /> <!-- Silahkan disesuaikan -->
+	<meta name="twitter:image:src" content="https://smkpkp1dkijkt.sch.id/po-content/uploads/" />
+	<meta name="twitter:domain" content="https://smkpkp1dkijkt.sch.id/pages/kontak" />
+
+	<meta itemprop="name" content="Halaman - Kontak" />
+	<meta itemprop="description" content="
+
+
+
+
+
+
+
+
+
+
+Kontak" />
+	<meta itemprop="image" content="https://smkpkp1dkijkt.sch.id/po-content/uploads/" />
+    <!-- Mobile Specific Meta -->
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Stylesheets -->
+	<link rel="stylesheet" href="https://smkpkp1dkijkt.sch.id/po-content/themes/SMK/fontawesome/css/all.css?v=1628072746" />
+	<link rel="stylesheet" href="https://smkpkp1dkijkt.sch.id/po-content/themes/SMK/css/style.css?v=1639761903" />
+
+	<!-- Favicons -->
+	<link rel="shortcut icon" href="https://smkpkp1dkijkt.sch.id/po-includes/images/favicon.png" />
+
+	<!-- Javascript -->
+	<script src="https://www.google.com/recaptcha/api.js"></script>
+	
+</head>
+<body class="stretched no-transition">
+	<!-- ##### Preloader ##### -->
+    <div id="preloader">
+      <i class="circle-preloader"></i>
+    </div>
+	
+	<div id="wrapper" class="clearfix">
+		<!-- Insert Header -->
+		<!-- Insert header script here -->
+
+<!-- ##### Header Area Start ##### -->
+<header class="header-area">
+      <!-- Top Header Area -->
+      <div class="top-header">
+        <div class="container h-100">
+          <div class="row h-100">
+            <div class="col-12 h-100">
+              <div
+                class="
+                  header-content
+                  h-100
+                  d-flex
+                  align-items-center
+                  justify-content-between
+                "
+              >
+                <div class="academy-logo">
+                  <a href="https://smkpkp1dkijkt.sch.id"
+                    ><img src="https://smkpkp1dkijkt.sch.id/po-content/themes/SMK/img/logo.png?v=1639576012" width="150px" alt=""
+                  /></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Navbar Area -->
+      <div class="academy-main-menu">
+        <div class="classy-nav-container breakpoint-off">
+          <div class="container">
+            <!-- Menu -->
+            <nav class="classy-navbar justify-content-between" id="academyNav">
+              <!-- Navbar Toggler -->
+              <div class="classy-navbar-toggler">
+                <span class="navbarToggler"
+                  ><span></span><span></span><span></span
+                ></span>
+              </div>
+
+              <!-- Menu -->
+              <div class="classy-menu">
+                <!-- close btn -->
+                <div class="classycloseIcon">
+                  <div class="cross-wrap">
+                    <span class="top"></span><span class="bottom"></span>
+                  </div>
+                </div>
+
+                <!-- Nav Start -->
+                <div class="classynav">
+                  
+		<ul >
+			<li><a href="https://smkpkp1dkijkt.sch.id/./" ><div>Beranda</div></a></li>
+			<li ><a href="https://smkpkp1dkijkt.sch.id/#" ><div>Profil</div></a>
+				<ul class="dropdown">
+					<li><a href="https://smkpkp1dkijkt.sch.id/pages/visi-misi" ><div>Visi Misi</div></a></li>
+					<li><a href="https://smkpkp1dkijkt.sch.id/pages/kurikulum" ><div>Kurikulum</div></a></li>
+					<li><a href="https://smkpkp1dkijkt.sch.id/pages/prestasi" ><div>Prestasi</div></a></li>
+					<li><a href="https://smkpkp1dkijkt.sch.id/pages/fasilitas" ><div>Fasilitas</div></a></li>
+					<li><a href="https://smkpkp1dkijkt.sch.id/pages/kurikulum-kekhasan" ><div>Kekhasan</div></a></li>
+					<li><a href="https://smkpkp1dkijkt.sch.id/pages/ekstrakulikuler" ><div>Ekstrakulikuler</div></a></li>
+					<li><a href="https://smkpkp1dkijkt.sch.id/pages/tenaga-pendidik" ><div>Tenaga Pendidik</div></a></li>
+					<li><a href="https://smkpkp1dkijkt.sch.id/pages/rekan-industri" ><div>Rekan Industri</div></a></li>
+				</ul>
+			</li>
+			<li ><a href="https://smkpkp1dkijkt.sch.id/#" ><div>Kom. Keahlian</div></a>
+				<ul class="dropdown">
+					<li><a href="https://smkpkp1dkijkt.sch.id/pages/teknik-komputer-jaringan" target="_blank"><div>TKJ</div></a></li>
+					<li><a href="https://smkpkp1dkijkt.sch.id/pages/rekayasa-perangkat-lunak" target="_blank"><div>RPL</div></a></li>
+					<li><a href="https://smkpkp1dkijkt.sch.id/pages/multimedia" target="_blank"><div>MM</div></a></li>
+					<li><a href="https://smkpkp1dkijkt.sch.id/pages/teknik-kendaraan-ringan-otomotif" ><div>TKRO</div></a></li>
+					<li><a href="https://smkpkp1dkijkt.sch.id/pages/otomatisasi-dan-tata-kelola-perkantoran" ><div>OTKP</div></a></li>
+					<li><a href="https://smkpkp1dkijkt.sch.id/pages/akuntansi-dan-keuangan-lembaga" ><div>AKL</div></a></li>
+				</ul>
+			</li>
+			<li><a href="https://smkpkp1dkijkt.sch.id/pages/penerimaan-peserta-didik-baru" ><div>PPDB</div></a></li>
+			<li ><a href="https://smkpkp1dkijkt.sch.id/#" ><div>Informasi</div></a>
+				<ul class="dropdown">
+					<li><a href="https://smkpkp1dkijkt.sch.id/category/berita" ><div>Berita</div></a></li>
+					<li><a href="https://smkpkp1dkijkt.sch.id/" ><div>Kolom Osis</div></a></li>
+					<li><a href="https://smkpkp1dkijkt.sch.id/pages/bursa-kerja" ><div>Bursa Kerja</div></a></li>
+					<li><a href="https://smkpkp1dkijkt.sch.id/pages/kontak" ><div>Kontak</div></a></li>
+					<li><a href="https://smkpkp1dkijkt.sch.id/pages/edufest" ><div>Edufest</div></a></li>
+					<li><a href="http://axiooclassprogram.org/" target="_blank"><div>Axio Class</div></a></li>
+					<li><a href="https://smk.kemdikbud.go.id/" ><div>Direktorat SMK</div></a></li>
+					<li><a href="https://smkpkp1dkijkt.sch.id/pages/youtube" ><div>Youtube</div></a></li>
+				</ul>
+			</li>
+			<li ><a href="https://smkpkp1dkijkt.sch.id/" ><div>Kelas</div></a>
+				<ul class="dropdown">
+					<li><a href="https://smkpkp1dkijkt.sch.id/" ><div>Kelas X</div></a></li>
+					<li><a href="https://smkpkp1dkijkt.sch.id/detailpost/x-mm" ><div>X - MM</div></a></li>
+					<li><a href="https://smkpkp1dkijkt.sch.id/detailpost/x-otkp" ><div>X - OTKP</div></a></li>
+					<li><a href="https://smkpkp1dkijkt.sch.id/detailpost/x-tkj" ><div>X - TKJ</div></a></li>
+					<li><a href="https://smkpkp1dkijkt.sch.id/" ><div>Kelas XI</div></a></li>
+					<li><a href="https://smkpkp1dkijkt.sch.id/detailpost/xi-akl" ><div>XI - AKL</div></a></li>
+					<li><a href="https://smkpkp1dkijkt.sch.id/detailpost/xi-mm" ><div>XI - MM</div></a></li>
+					<li><a href="https://smkpkp1dkijkt.sch.id/detailpost/xi-tkj" ><div>XI - TKJ</div></a></li>
+					<li><a href="https://smkpkp1dkijkt.sch.id/detailpost/xi-rpl" ><div>XI - RPL</div></a></li>
+					<li><a href="https://smkpkp1dkijkt.sch.id/" ><div>Kelas XII</div></a></li>
+					<li><a href="https://smkpkp1dkijkt.sch.id/detailpost/xii-otkp" ><div>XII - OTKP</div></a></li>
+					<li><a href="https://smkpkp1dkijkt.sch.id/detailpost/xii-mm" ><div>XII - MM</div></a></li>
+					<li><a href="https://smkpkp1dkijkt.sch.id/detailpost/xii-rpl" ><div>XII - RPL</div></a></li>
+					<li><a href="https://smkpkp1dkijkt.sch.id/detailpost/xii-tkro" ><div>XII - TKRO</div></a></li>
+					<li><a href="https://smkpkp1dkijkt.sch.id/detailpost/xii-tkj" ><div>XII - TKJ</div></a></li>
+				</ul>
+			</li>
+			<li ><a href="https://smkpkp1dkijkt.sch.id/#" ><div>LMS</div></a>
+				<ul class="dropdown">
+					<li><a href="https://smkpkp1.lmsdki.net" target="_blank"><div>e-Learning</div></a></li>
+					<li><a href="http://103.247.216.65/CBT" ><div>CBT</div></a></li>
+					<li><a href="http://103.247.216.65/login" ><div>e-Raport</div></a></li>
+					<li><a href="https://smkpkp1dkijkt.sch.id/" ><div>e-Library</div></a></li>
+				</ul>
+			</li>
+		</ul>                </div>
+                <!-- Nav End -->
+              </div>
+
+              <!-- Calling Info -->
+              <div class="calling-info">
+                <div class="call-center">
+                  <a href="https://api.whatsapp.com/send?phone=6281292224271&text=Assalamualaikum+Admin++Saya+ingin+mengetahui+tentang+SMK+PKP1+JIS+?"
+                    ><i class="icon-telephone-2"></i>
+                    <span>081292224271</span></a
+                  >
+                </div>
+              </div>
+            </nav>
+          </div>
+        </div>
+      </div>
+    </header>
+    <!-- ##### Header Area End ##### -->
+
+		<section id="content">
+			<div class="content-wrap">
+				<!-- Insert Content -->
+				
+	<!-- ##### Breadcumb Area Start ##### -->
+	<div
+      class="breadcumb-area bg-img"
+      style="background-image: url(https://smkpkp1dkijkt.sch.id/po-content/themes/SMK/img/bg-img/breadcumb.jpg?v=1639576012)"
+    >
+      <div class="bradcumbContent">
+        <h2>Kontak</h2>
+      </div>
+    </div>
+    <!-- ##### Breadcumb Area End ##### -->
+
+    <!-- ##### About Us Area Start ##### -->
+    <section class="about-us-area section-padding-100-0">
+      
+	  	
+			        
+
+        
+          <div class="wow fadeInUp" data-wow-delay="400ms">
+            
+				<div class="map-area wow fadeInUp" data-wow-delay="300ms"><iframe style="border: 0;" tabindex="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15861.748053935276!2d106.8844879!3d-6.3373978!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x39dc0082d3455d4d!2sSekolah%20Menengah%20Kejuruan%201%20%2F%20Sekolah%20Menengah%20Ekonomi%20Atas%20PKP%20Jakarta%20Islamic%20School!5e0!3m2!1sid!2sid!4v1602472629824!5m2!1sid!2sid" width="100%" height="450" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<!-- ##### Contact Area Start ##### -->
+<section class="contact-area">
+<div class="container">
+<div class="row">
+<div class="col-12">
+<div class="contact-content">
+<div class="row"><!-- Contact Information -->
+<div class="col-12 col-lg-5">
+<div class="contact-information wow fadeInUp" data-wow-delay="400ms">
+<div class="section-heading text-left">
+<h3>Kontak Kami</h3>
+</div>
+<!-- Contact Social Info -->
+<div class="contact-social-info d-flex mb-30">&nbsp;</div>
+<!-- Single Contact Info -->
+<div class="single-contact-info d-flex">
+<div class="contact-icon mr-15">&nbsp;</div>
+<p>Jl. Raya Pkp, RT.1/RW.8, Klp. Dua Wetan,<br /> Kec. Ciracas, Kota Jakarta Timur, <br />Daerah Khusus Ibukota Jakarta 13730</p>
+</div>
+<!-- Single Contact Info -->
+<div class="single-contact-info d-flex">
+<div class="contact-icon mr-15">&nbsp;</div>
+<p>Telepon: 021- 8700113 <br /> Whatsapp: 081292224271</p>
+</div>
+<!-- Single Contact Info -->
+<div class="single-contact-info d-flex">
+<div class="contact-icon mr-15">&nbsp;</div>
+<p>info@smkpkp1dkijkt.sch.id</p>
+</div>
+</div>
+</div>
+
+<footer class="footer-area">
+      <div class="main-footer-area section-padding-100-0">
+        <div class="container">
+          <div class="row">
+            <!-- Footer Widget Area -->
+            <div class="col-12 col-sm-6 col-lg-3">
+              <div class="footer-widget mb-100">
+                <div class="widget-title">
+                  <a href="#"><img src="https://smkpkp1dkijkt.sch.id/po-content/themes/SMK/img/logo-final.png?v=1639576012" alt="" /></a>
+                </div>
+                <p>Sekolah Menengah Kejuruan Pondok Karya Pembangunan 1 Jakarta Islamic School</p>
+              </div>
+            </div>
+            <!-- Footer Widget Area -->
+            <div class="col-12 col-sm-6 col-lg-3">
+              <div class="footer-widget mb-100">
+                <div class="widget-title">
+                  <h6>Usefull Links</h6>
+                </div>
+                <nav>
+                  <ul class="useful-links">
+                    <li><a href="#">Beranda</a></li>
+                    <li><a href="#">Profil</a></li>
+                    <li><a href="#">Kompetensi Keahlian</a></li>
+                    <li><a href="#">PPDB</a></li>
+                    <li><a href="#">Berita</a></li>
+                    <li><a href="#">Kontak</a></li>
+                  </ul>
+                </nav>
+              </div>
+            </div>
+            <!-- Footer Widget Area -->
+            <div class="col-12 col-sm-6 col-lg-3">
+              <div class="footer-widget mb-100">
+                <div class="widget-title">
+                  <h6>Media Sosial</h6>
+                </div>
+                <div class="contact-information wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+                  <div class="single-contact d-flex mb-30">
+                    <a href="https://www.facebook.com/official_smkpkp1-111900470497019"><i class="fab fa-facebook" aria-hidden="true"></i></a>
+                    <a href="https://www.instagram.com/official_smkpkp1/"><i class="fab fa-instagram" aria-hidden="true"></i></a>
+                    <a href="https://www.youtube.com/channel/UCxTAi9xzlF-fVqc0ciiGkxA"><i class="fab fa-youtube" aria-hidden="true"></i></a>     
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- Footer Widget Area -->
+            <div class="col-12 col-sm-6 col-lg-3">
+              <div class="footer-widget mb-100">
+                <div class="widget-title">
+                  <h6>Contact</h6>
+                </div>
+                <div class="single-contact d-flex mb-30">
+                  <i class="icon-placeholder"></i>
+                  <p>Jl. Raya Pkp, RT.1/RW.8, Klp. Dua Wetan, Kec. Ciracas, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13730</p>
+                </div>
+                <div class="single-contact d-flex mb-30">
+                  <i class="icon-telephone-1"></i>
+                  <p>(021) 8700113</p>
+                </div>
+                <div class="single-contact d-flex mb-30">
+                  <i class="fab fa-whatsapp"></i>
+                  <p>081292224271</p>
+                </div>
+                <div class="single-contact d-flex">
+                  <i class="icon-contract"></i>
+                  <p>admin@smkpkp1dkijkt.sch.id</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="bottom-footer-area">
+        <div class="container">
+          <div class="row">
+            <div class="col-12">
+              <p>
+                Copyright 
+                <script>
+                  document.write(new Date().getFullYear());
+                </script>
+                &copy; SMK PKP 1 Jakarta Islamic School
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- ##### Footer Area Start ##### -->
+	</div>
+
+	<div id="gotoTop" class="icon-angle-up"></div>
+    
+	<!-- ##### All Javascript Script ##### -->
+    <!-- jQuery-2.2.4 js -->
+    <script src="https://smkpkp1dkijkt.sch.id/po-content/themes/SMK/js/jquery/jquery-2.2.4.min.js?v=1639576012"></script>
+    <!-- Popper js -->
+    <script src="https://smkpkp1dkijkt.sch.id/po-content/themes/SMK/js/bootstrap/popper.min.js?v=1639576012"></script>
+    <!-- Bootstrap js -->
+    <script src="https://smkpkp1dkijkt.sch.id/po-content/themes/SMK/js/bootstrap/bootstrap.min.js?v=1639576012"></script>
+    <!-- All Plugins js -->
+    <script src="https://smkpkp1dkijkt.sch.id/po-content/themes/SMK/js/plugins/plugins.js?v=1639576012"></script>
+    <!-- Active js -->
+    <script src="https://smkpkp1dkijkt.sch.id/po-content/themes/SMK/js/active.js?v=1639576012"></script>
+    <script src="https://smkpkp1dkijkt.sch.id/po-content/themes/SMK/js/lightbox.js?v=1639576012"></script>
+</body>
+</html>
+
